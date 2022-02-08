@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+slapping.egg-info/PKG-INFO
+slapping.egg-info/SOURCES.txt
+slapping.egg-info/dependency_links.txt
+slapping.egg-info/top_level.txt
